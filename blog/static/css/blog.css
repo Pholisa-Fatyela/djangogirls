@@ -1,6 +1,6 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'Georgia', Serif;
 }
 
 body {
@@ -24,11 +24,12 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Georgia', Serif;
 }
 
 .date {
     color: #828282;
+    font-weight: bold;
 }
 
 .save {
